@@ -5,6 +5,7 @@ Este projeto foi desenvolvido com base nas videoaulas do canal Cod3r Cursos ([li
 Créditos ao professor: Leonardo Moura Leitão.
 
 [[Cadastro COMPLETO em Flutter! CRUD... Create, Read, Update e Delete.]](https://www.youtube.com/watch?v=ViahqKZzZ7Y)
+
 [[Integrando App FLUTTER com BACKEND. Muito FÁCIL usar o FIREBASE!]](https://www.youtube.com/watch?v=Z-uJPNk0Moo)
 
 ## Tecnologias Utilizadas
