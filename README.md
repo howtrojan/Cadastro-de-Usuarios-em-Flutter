@@ -1,16 +1,14 @@
-# cadastrodeusuarios
+Cadastro COMPLETO em Flutter! CRUD... Create, Read, Update e Delete com integração do Firebase.
 
-A new Flutter project.
+Este projeto foi desenvolvido com base nas videoaulas do canal Cod3r Cursos ([link](https://www.youtube.com/@cod3r)).
 
-## Getting Started
+Créditos ao professor: Leonardo Moura Leitão.
 
-This project is a starting point for a Flutter application.
+[[Cadastro COMPLETO em Flutter! CRUD... Create, Read, Update e Delete.]](https://www.youtube.com/watch?v=ViahqKZzZ7Y)
+[[Integrando App FLUTTER com BACKEND. Muito FÁCIL usar o FIREBASE!]](https://www.youtube.com/watch?v=Z-uJPNk0Moo)
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Firebase (se estiver usando)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
